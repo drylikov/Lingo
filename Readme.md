@@ -96,3 +96,26 @@ New languages can be defined as shown below:
 The language code passed to `Language()` self-registers itself, so you could grab the implementation via:
 
     var fr = require('lingo').fr;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
