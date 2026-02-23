@@ -1,0 +1,12 @@
+
+{   "name": "lingo"
+  , "description": "linguistics module sporting inflection and more"
+  , "version": "0.0.5"
+  , "author": "Denis Rylikov <denis.rylikov@protonmail.com>"
+  , "keywords": ["language", "linguistics", "inflection"]
+  , "main": "./index.js"
+  , "devDependencies": {
+    "mocha": "*"
+  }
+  , "engines": { "node": ">= 0.2.0" }
+}
